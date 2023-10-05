@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668353511665",
+    "project_id": "barkgenius-finalproject",
+    "storage_bucket": "barkgenius-finalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668353511665:android:4bdf51d0a8626d6f666950",
+        "android_client_info": {
+          "package_name": "com.example.bark_genius_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJmKAOjG4rXmhb7LBF8jlnyD_WygXqsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
